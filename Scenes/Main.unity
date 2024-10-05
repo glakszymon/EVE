@@ -2396,8 +2396,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 20, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0.3083992}
+  m_SizeDelta: {x: 20, y: -13.3833}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &670262128
 MonoBehaviour:
@@ -2827,8 +2827,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -407.60007, y: -231.8999}
-  m_SizeDelta: {x: 160, y: 20}
+  m_AnchoredPosition: {x: -416.33, y: -225.07541}
+  m_SizeDelta: {x: 154.87, y: 33.6489}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &912054921
 MonoBehaviour:
@@ -5401,7 +5401,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -70, y: 15}
+  m_AnchoredPosition: {x: -66.8, y: 15}
   m_SizeDelta: {x: 47.7405, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1765097738
@@ -5785,7 +5785,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 65.1, y: 15}
+  m_AnchoredPosition: {x: 67.4, y: 15}
   m_SizeDelta: {x: 47.7405, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1878921401
@@ -6438,7 +6438,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -407.6, y: -121.9}
+  m_AnchoredPosition: {x: -416.33, y: -156}
   m_SizeDelta: {x: 137.4171, y: 79.4717}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1960907451
@@ -6568,8 +6568,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -5, y: 0}
-  m_SizeDelta: {x: -20, y: 0}
+  m_AnchoredPosition: {x: -2.5, y: 0}
+  m_SizeDelta: {x: -15, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2000760895
 GameObject:
